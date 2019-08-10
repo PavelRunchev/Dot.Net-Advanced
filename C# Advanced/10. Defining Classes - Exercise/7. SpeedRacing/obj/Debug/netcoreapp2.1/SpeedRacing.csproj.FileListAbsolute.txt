@@ -1,0 +1,11 @@
+C:\Users\RAIDERS\source\repos\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.deps.json
+C:\Users\RAIDERS\source\repos\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.dll
+C:\Users\RAIDERS\source\repos\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.pdb
+C:\Users\RAIDERS\source\repos\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csprojAssemblyReference.cache
+C:\Users\RAIDERS\source\repos\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.dll
+C:\Users\RAIDERS\source\repos\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.pdb

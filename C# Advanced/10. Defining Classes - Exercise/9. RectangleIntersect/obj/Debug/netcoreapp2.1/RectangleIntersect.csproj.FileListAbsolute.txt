@@ -1,0 +1,11 @@
+C:\Users\RAIDERS\source\repos\RectangleIntersect\bin\Debug\netcoreapp2.1\RectangleIntersect.deps.json
+C:\Users\RAIDERS\source\repos\RectangleIntersect\bin\Debug\netcoreapp2.1\RectangleIntersect.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\RectangleIntersect\bin\Debug\netcoreapp2.1\RectangleIntersect.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\RectangleIntersect\bin\Debug\netcoreapp2.1\RectangleIntersect.dll
+C:\Users\RAIDERS\source\repos\RectangleIntersect\bin\Debug\netcoreapp2.1\RectangleIntersect.pdb
+C:\Users\RAIDERS\source\repos\RectangleIntersect\obj\Debug\netcoreapp2.1\RectangleIntersect.csprojAssemblyReference.cache
+C:\Users\RAIDERS\source\repos\RectangleIntersect\obj\Debug\netcoreapp2.1\RectangleIntersect.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\RectangleIntersect\obj\Debug\netcoreapp2.1\RectangleIntersect.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\RectangleIntersect\obj\Debug\netcoreapp2.1\RectangleIntersect.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\RectangleIntersect\obj\Debug\netcoreapp2.1\RectangleIntersect.dll
+C:\Users\RAIDERS\source\repos\RectangleIntersect\obj\Debug\netcoreapp2.1\RectangleIntersect.pdb

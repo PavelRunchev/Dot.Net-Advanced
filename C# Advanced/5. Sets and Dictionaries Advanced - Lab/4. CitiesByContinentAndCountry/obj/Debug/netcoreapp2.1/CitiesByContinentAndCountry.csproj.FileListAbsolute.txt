@@ -1,0 +1,10 @@
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.deps.json
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.dll
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.1\CitiesByContinentAndCountry.pdb
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.dll
+C:\Users\RAIDERS\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.1\CitiesByContinentAndCountry.pdb

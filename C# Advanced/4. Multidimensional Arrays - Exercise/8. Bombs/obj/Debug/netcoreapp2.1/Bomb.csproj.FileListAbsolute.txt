@@ -1,0 +1,11 @@
+C:\Users\RAIDERS\source\repos\Bomb\bin\Debug\netcoreapp2.1\Bomb.deps.json
+C:\Users\RAIDERS\source\repos\Bomb\bin\Debug\netcoreapp2.1\Bomb.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\Bomb\bin\Debug\netcoreapp2.1\Bomb.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\Bomb\bin\Debug\netcoreapp2.1\Bomb.dll
+C:\Users\RAIDERS\source\repos\Bomb\bin\Debug\netcoreapp2.1\Bomb.pdb
+C:\Users\RAIDERS\source\repos\Bomb\obj\Debug\netcoreapp2.1\Bomb.csprojAssemblyReference.cache
+C:\Users\RAIDERS\source\repos\Bomb\obj\Debug\netcoreapp2.1\Bomb.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\Bomb\obj\Debug\netcoreapp2.1\Bomb.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\Bomb\obj\Debug\netcoreapp2.1\Bomb.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\Bomb\obj\Debug\netcoreapp2.1\Bomb.dll
+C:\Users\RAIDERS\source\repos\Bomb\obj\Debug\netcoreapp2.1\Bomb.pdb

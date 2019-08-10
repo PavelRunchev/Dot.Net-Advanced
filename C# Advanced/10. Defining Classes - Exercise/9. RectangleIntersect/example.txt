@@ -1,0 +1,39 @@
+7 7
+Pesho 3 2 1 1
+Gosho 3 2 -1 1
+Sasho 3 2 4 3
+Stamat 1 1 1 1
+Maria 3 2 -2 1
+Annie 2 2 4 1
+Steve 2 3 0 2
+Pesho Gosho
+Pesho Sasho
+Sasho Gosho
+Pesho Stamat
+Pesho Annie
+Pesho Maria
+Pesho Steve
+
+output:
+true
+true
+false
+true
+true
+true
+true
+
+3 3
+Pesho 2 2 1 1
+Gosho 2 2 3 3
+Stamat 2 2 -1 -1
+Pesho Gosho
+Gosho Stamat
+Pesho Stamat
+
+output :
+true
+false
+true
+
+

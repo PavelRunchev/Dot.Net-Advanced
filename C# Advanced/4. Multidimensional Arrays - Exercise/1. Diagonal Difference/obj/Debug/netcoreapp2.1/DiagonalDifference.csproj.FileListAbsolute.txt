@@ -1,0 +1,11 @@
+C:\Users\RAIDERS\source\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.deps.json
+C:\Users\RAIDERS\source\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.runtimeconfig.json
+C:\Users\RAIDERS\source\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.dll
+C:\Users\RAIDERS\source\DiagonalDifference\bin\Debug\netcoreapp2.1\DiagonalDifference.pdb
+C:\Users\RAIDERS\source\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\RAIDERS\source\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.AssemblyInfo.cs
+C:\Users\RAIDERS\source\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.dll
+C:\Users\RAIDERS\source\DiagonalDifference\obj\Debug\netcoreapp2.1\DiagonalDifference.pdb

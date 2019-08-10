@@ -1,0 +1,10 @@
+C:\Users\RAIDERS\source\repos\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.deps.json
+C:\Users\RAIDERS\source\repos\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.dll
+C:\Users\RAIDERS\source\repos\MatchingBrackets\bin\Debug\netcoreapp2.1\MatchingBrackets.pdb
+C:\Users\RAIDERS\source\repos\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.dll
+C:\Users\RAIDERS\source\repos\MatchingBrackets\obj\Debug\netcoreapp2.1\MatchingBrackets.pdb

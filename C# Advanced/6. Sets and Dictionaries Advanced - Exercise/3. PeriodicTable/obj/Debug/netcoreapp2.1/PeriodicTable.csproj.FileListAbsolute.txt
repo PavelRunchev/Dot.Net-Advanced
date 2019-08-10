@@ -1,0 +1,10 @@
+C:\Users\RAIDERS\source\repos\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.deps.json
+C:\Users\RAIDERS\source\repos\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.dll
+C:\Users\RAIDERS\source\repos\PeriodicTable\bin\Debug\netcoreapp2.1\PeriodicTable.pdb
+C:\Users\RAIDERS\source\repos\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.dll
+C:\Users\RAIDERS\source\repos\PeriodicTable\obj\Debug\netcoreapp2.1\PeriodicTable.pdb

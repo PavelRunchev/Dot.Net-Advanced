@@ -1,0 +1,11 @@
+C:\Users\RAIDERS\source\repos\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+C:\Users\RAIDERS\source\repos\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\RAIDERS\source\repos\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+C:\Users\RAIDERS\source\repos\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csprojAssemblyReference.cache
+C:\Users\RAIDERS\source\repos\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+C:\Users\RAIDERS\source\repos\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb

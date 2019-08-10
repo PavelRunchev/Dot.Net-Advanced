@@ -1,0 +1,10 @@
+C:\Users\RAIDERS\source\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.deps.json
+C:\Users\RAIDERS\source\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.runtimeconfig.json
+C:\Users\RAIDERS\source\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.dll
+C:\Users\RAIDERS\source\UniqueUsernames\bin\Debug\netcoreapp2.1\UniqueUsernames.pdb
+C:\Users\RAIDERS\source\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.AssemblyInfo.cs
+C:\Users\RAIDERS\source\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.dll
+C:\Users\RAIDERS\source\UniqueUsernames\obj\Debug\netcoreapp2.1\UniqueUsernames.pdb

@@ -1,0 +1,11 @@
+C:\Users\RAIDERS\source\repos\SuperMarket\bin\Debug\netcoreapp2.1\SuperMarket.deps.json
+C:\Users\RAIDERS\source\repos\SuperMarket\bin\Debug\netcoreapp2.1\SuperMarket.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\SuperMarket\bin\Debug\netcoreapp2.1\SuperMarket.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\SuperMarket\bin\Debug\netcoreapp2.1\SuperMarket.dll
+C:\Users\RAIDERS\source\repos\SuperMarket\bin\Debug\netcoreapp2.1\SuperMarket.pdb
+C:\Users\RAIDERS\source\repos\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.csprojAssemblyReference.cache
+C:\Users\RAIDERS\source\repos\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.dll
+C:\Users\RAIDERS\source\repos\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.pdb

@@ -1,0 +1,10 @@
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.deps.json
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.dll
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\bin\Debug\netcoreapp2.1\RecordUniqueNames.pdb
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.dll
+C:\Users\RAIDERS\source\repos\RecordUniqueNames\obj\Debug\netcoreapp2.1\RecordUniqueNames.pdb

@@ -1,0 +1,11 @@
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.csprojAssemblyReference.cache
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.deps.json
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.dll
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\bin\Debug\netcoreapp2.0\OldestFamilyMember.pdb
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.dll
+C:\Users\RAIDERS\source\repos\OldestFamilyMember\obj\Debug\netcoreapp2.0\OldestFamilyMember.pdb

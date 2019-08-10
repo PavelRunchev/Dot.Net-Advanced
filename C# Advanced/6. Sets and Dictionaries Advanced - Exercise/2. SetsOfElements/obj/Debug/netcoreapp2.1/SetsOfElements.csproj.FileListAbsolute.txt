@@ -1,0 +1,11 @@
+C:\Users\RAIDERS\source\repos\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.deps.json
+C:\Users\RAIDERS\source\repos\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.dll
+C:\Users\RAIDERS\source\repos\SetsOfElements\bin\Debug\netcoreapp2.1\SetsOfElements.pdb
+C:\Users\RAIDERS\source\repos\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.csprojAssemblyReference.cache
+C:\Users\RAIDERS\source\repos\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.dll
+C:\Users\RAIDERS\source\repos\SetsOfElements\obj\Debug\netcoreapp2.1\SetsOfElements.pdb

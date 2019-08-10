@@ -1,0 +1,11 @@
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+D:\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

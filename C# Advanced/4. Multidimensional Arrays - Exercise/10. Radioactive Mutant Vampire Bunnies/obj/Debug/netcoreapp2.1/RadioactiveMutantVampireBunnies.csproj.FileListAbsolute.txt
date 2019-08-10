@@ -1,0 +1,11 @@
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.deps.json
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.dll
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.pdb
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.dll
+C:\Users\RAIDERS\source\repos\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.1\RadioactiveMutantVampireBunnies.pdb
