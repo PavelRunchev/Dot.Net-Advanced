@@ -1,2 +1,2 @@
-# Dot.Net-Advanced
+# .Net-Advanced
 SoftUni Academy
